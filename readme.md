@@ -34,7 +34,7 @@ The conditions required to complete the task.
 
 Additional resources to illustrate more about the app contained in this repository.
 
-- The below images are the sample appearances when importing the Postman collection.
+- The below images are the sample appearances showing the routing table when importing the Postman collection.
 <br><br>
 ![renamer3](postman-1.png)
 <br><br>
