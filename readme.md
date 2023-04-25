@@ -18,9 +18,9 @@ The conditions that are required from the assignor to complete the task. These c
 6. When creating User data, create also its Toko data automatically.
 7. Alamat data is needed when creating Trx data.
 8. The Category table should only be modified by admin users.
-9. Implmenting data pagination.
+9. Implementing data pagination.
 10. Implementing data filtering.
-11. users should not be able to retrieve or modify other users' User data.
+11. Users should not be able to retrieve or modify other users' User data.
 12. Users should not be able to modify other users' Alamat data.
 13. Users should not be able to modify other users' Toko data.
 14. Users should not be able to modify other users' Produk data.
