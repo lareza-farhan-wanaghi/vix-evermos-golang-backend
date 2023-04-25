@@ -33,7 +33,7 @@ The conditions that are required from the assignor to complete the task. These c
 
 Additional info to illustrate more about the app contained in this repository.
 
-- The below images are the sample appearance of the collection routes when importing the collection.
+- The below images are the sample appearances when importing the collection.
 <br><br>
 ![renamer3](postman-1.png)
 <br><br>
