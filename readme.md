@@ -15,7 +15,7 @@ The conditions that are required from the assignor to complete the task. These c
 3. The "email" dan "no telepon" columns of the User table must be unique.
 4. Using JWT for the authentication.
 5. Having an API(s) uploading a file(s).
-6. When creating User data, the Toko data associated with that User should also be created automatically.
+6. When creating User data, create also its Toko data automatically.
 7. Alamat data is needed when creating Trx data.
 8. The Category table should only be modified by admin users.
 9. Implmenting data pagination.
@@ -25,8 +25,8 @@ The conditions that are required from the assignor to complete the task. These c
 13. Users should not be able to modify other users' Toko data.
 14. Users should not be able to modify other users' Produk data.
 15. Users should not be able to modify other users' Trx data.
-16. When creating Trx data, the LogProduk data associated with that Trx should also be created.
-17. The LogProduk should be used to store the Produk data associated with the Trx data.
+16. When creating Trx data, create also its LogProduk data.
+17. The LogProduk table should be used to store Produk data associated with Trx data.
 18. Implementing clean architecture.
 
 ### Additional Info
