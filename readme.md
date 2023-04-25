@@ -1,11 +1,11 @@
-# Gophercises
+# Rakamin VIX - Evermos Backend Developer Virtual Internship Program
 
 ![Completion status: completed](https://img.shields.io/badge/COMPLETION%20STATUS-COMPLETED-success?style=for-the-badge)
 
 
 ## Description
 
-This repository contains my solution for the final assignment of the [Evermos Backend Developer Virtual Internship Program](https://www.rakamin.com/virtual-internship-experience/back-end-developer-evermos).
+This repository contains my solution for the final assignment of the [Rakamin VIX - Evermos Backend Developer Virtual Internship Program](https://www.rakamin.com/virtual-internship-experience/back-end-developer-evermos).
 
 ### Task Conditions
 
