@@ -9,25 +9,44 @@ This repository contains my solution for the final assignment of the [Rakamin VI
 
 ### Task Conditions
 
-The conditions that are required from the assignor to complete the task. These conditions are: 
-1. Having a routing table complying with the following postman collection. [See the collection](https://github.com/lareza-farhan-wanaghi/rakamin-vix-evermos-backend-developer/blob/master/Rakamin%20Evermos%20Virtual%20Internship.postman_collection.json)
-2. Can have more APIs than the ones listed above but not less.
-3. The "email" dan "no telepon" columns of the User table must be unique.
-4. Using JWT for the authentication.
-5. Having an API(s) uploading a file(s).
-6. When creating User data, create also its Toko data automatically.
-7. Alamat data is needed when creating Trx data.
-8. The Category table should only be modified by admin users.
-9. Implementing data pagination.
-10. Implementing data filtering.
-11. Users should not be able to retrieve or modify other users' User data.
-12. Users should not be able to modify other users' Alamat data.
-13. Users should not be able to modify other users' Toko data.
-14. Users should not be able to modify other users' Produk data.
-15. Users should not be able to modify other users' Trx data.
-16. When creating Trx data, create also its LogProduk data.
-17. The LogProduk table should be used to store Produk data associated with Trx data.
-18. Implementing clean architecture.
+The conditions required from the assignor to complete the task are listed below. 
+
+**1. Having a routing table complying with the following postman collection.** 
+[[See the collection]](https://github.com/lareza-farhan-wanaghi/rakamin-vix-evermos-backend-developer/blob/master/Rakamin%20Evermos%20Virtual%20Internship.postman_collection.json)
+
+**2. Can have more APIs than the ones listed above but not less.**
+
+**3. The "email" dan "no telepon" columns of the User table must be unique.**
+
+**4. Using JWT for the authentication.**
+
+**5. Having an API(s) uploading a file(s).**
+
+**6. When creating User data, create also its Toko data automatically.**
+
+**7. Alamat data is needed when creating Trx data.**
+
+**8. The Category table should only be modified by admin users.**
+
+**9. Implementing data pagination.**
+
+**10. Implementing data filtering.**
+
+**11. Users should not be able to retrieve or modify other users' User data.**
+
+**12. Users should not be able to modify other users' Alamat data.**
+
+**13. Users should not be able to modify other users' Toko data.**
+
+**14. Users should not be able to modify other users' Produk data.**
+
+**15. Users should not be able to modify other users' Trx data.**
+
+**16. When creating Trx data, create also its LogProduk data.**
+
+**17. The LogProduk table should be used to store Produk data associated with Trx data.**
+
+**18. Implementing clean architecture.**
 
 ### Additional Info
 
