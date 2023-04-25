@@ -25,7 +25,7 @@ The conditions that are required from the assignor to complete the task. These c
 13. Users should not be able to modify other users' Toko data.
 14. Users should not be able to modify other users' Produk data.
 15. Users should not be able to modify other users' Trx data.
-16. The LogProduk table should be filled when making Trx data.
+16. When creating Trx data, the LogProduk data associated with that Trx should also be created.
 17. The LogProduk should be used to store the Produk data associated with the Trx data.
 18. Implementing clean architecture.
 
