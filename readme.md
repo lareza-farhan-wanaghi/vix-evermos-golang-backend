@@ -4,10 +4,12 @@
 
 
 ## Description
+
 This repository contains my solution for the final assignment of the [Evermos Backend Developer Virtual Internship Program](https://www.rakamin.com/virtual-internship-experience/back-end-developer-evermos).
 
 ### Task Conditions
-Conditions required from the assignor to complete the task: 
+
+The conditions that are required from the assignor to complete the task. These conditions are: 
 1. Having a routing table complying with the following postman collection. [See the collection](https://www.rakamin.com/virtual-internship-experience/back-end-developer-evermos)
 2. Can have more APIs than the ones listed above but not less.
 3. The "email" dan "no telepon" columns of the User table must be unique.
@@ -26,6 +28,21 @@ Conditions required from the assignor to complete the task:
 16. The LogProduk table should be filled when making Trx data.
 17. The LogProduk should be used to store the Produk data associated with the Trx data.
 18. Implementing clean architecture.
+
+### Additional Info
+
+Additional info to illustrate more about the app contained in this repository.
+
+- The below images are the sample appearance of the collection routes when importing the collection.
+<br><br>
+![renamer3](postman-collection-1.png)
+<br><br>
+![renamer3](postman-collection-2.png)
+<br><br>
+
+- The below image is the database design made by the assignor.
+<br><br>
+![renamer3](database-design.jpg)
 
 ### Conclusion
 To conclude, through this final assignment, the internship program has taught me a lot of things related to backend development, including creating REST APIs, managing a database, handling authentication, setting up a REST API development environment, and above all, writing codes that do all these things cleanly. Additionally, the internship program also has given me an idea of what backend engineer work looks like. In my opinion, the program, especially the final assignment, is designed quite well and is a great resource to enrich insight related to backend development. 
