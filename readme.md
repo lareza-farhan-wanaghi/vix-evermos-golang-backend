@@ -35,9 +35,9 @@ Additional info to illustrate more about the app contained in this repository.
 
 - The below images are the sample appearance of the collection routes when importing the collection.
 <br><br>
-![renamer3](postman-collection-1.png)
+![renamer3](postman-1.png)
 <br><br>
-![renamer3](postman-collection-2.png)
+![renamer3](postman-2.png)
 <br><br>
 
 - The below image is the database design made by the assignor.
