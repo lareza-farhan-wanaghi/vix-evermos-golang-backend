@@ -30,11 +30,11 @@ The conditions that are required from the assignor to complete the task. These c
 17. The LogProduk table should be used to store Produk data associated with Trx data.
 18. Implementing clean architecture.
 
-### Additional Info
+### Additional Resources
 
-Additional info to illustrate more about the app contained in this repository.
+Additional resources to illustrate more about the app contained in this repository.
 
-- The below images are the sample appearances when importing the collection.
+- The below images are the sample appearances when importing the Postman collection.
 <br><br>
 ![renamer3](postman-1.png)
 <br><br>
