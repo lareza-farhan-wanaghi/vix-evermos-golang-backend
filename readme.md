@@ -9,7 +9,7 @@ This repository contains my solution for the final assignment of the [Rakamin VI
 
 ### Task Conditions
 
-The conditions that are required from the assignor to complete the task. These conditions are: 
+The conditions required to complete the task. 
 1. Having a routing table complying with the following postman collection. 
 [[See the collection]](https://github.com/lareza-farhan-wanaghi/rakamin-vix-evermos-backend-developer/blob/master/Rakamin%20Evermos%20Virtual%20Internship.postman_collection.json)
 2. Can have more APIs than the ones listed above but not less.
