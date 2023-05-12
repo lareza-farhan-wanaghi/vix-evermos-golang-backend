@@ -2,6 +2,8 @@
 
 ![Completion status: completed](https://img.shields.io/badge/COMPLETION%20STATUS-COMPLETED-success?style=for-the-badge)
 
+Welcome to my solution for the final assignment of the Rakamin VIX - Evermos Backend Developer Virtual Internship Program! This repository showcases my ability to create a RESTful API, manage a database and its transactions, handle authentication, set up a development work environment, and write clean code.
+
 ## What's in this Repository?
 
 This repository contains my solution to the final assignment of the [Rakamin VIX - Evermos Backend Developer Virtual Internship Program](https://www.rakamin.com/virtual-internship-experience/back-end-developer-evermos).
