@@ -2,14 +2,19 @@
 
 ![Completion status: completed](https://img.shields.io/badge/COMPLETION%20STATUS-COMPLETED-success?style=for-the-badge)
 
-
-## Description
+## What's in this Repository?
 
 This repository contains my solution to the final assignment of the [Rakamin VIX - Evermos Backend Developer Virtual Internship Program](https://www.rakamin.com/virtual-internship-experience/back-end-developer-evermos).
+Here are some of the libraries and frameworks that I used to build the app:
+- API: [Fiber](https://gofiber.io/)
+- ORM: [GORM](https://gorm.io/)
+- Logger: [Fiber Middleware](https://docs.gofiber.io/api/middleware/logger/)
+- DB: [MySQL](https://gorm.io/docs/connecting_to_the_database.html#MySQL)
+- Authentication: [JWT-go](https://github.com/golang-jwt/jwt)
 
-### Task Conditions
+### The Task at Hand
 
-The conditions required to complete the task. 
+The final assignment required me to complete the following tasks:
 1. Having a routing table complying with the following postman collection. 
 [See the collection](https://github.com/lareza-farhan-wanaghi/rakamin-vix-evermos-backend-developer/blob/master/Rakamin%20Evermos%20Virtual%20Internship.postman_collection.json)
 2. Can have more APIs than the ones listed above but not less.
@@ -32,7 +37,7 @@ The conditions required to complete the task.
 
 ### Additional Resources
 
-Additional resources to illustrate more about the app contained in this repository.
+Here are some additional resources to help you understand more about the app contained in this repository:
 
 - The below images are the sample appearances showing the routing table when importing the Postman collection.
 <br><br>
@@ -46,4 +51,4 @@ Additional resources to illustrate more about the app contained in this reposito
 ![renamer3](database-design.jpg)
 
 ### Conclusion
-To conclude, the internship program has taught me a lot of things related to backend development, including creating REST APIs, managing a database and its transactions, handling authentication, setting up a development work environment, and above all, writing codes doing all these things cleanly. Additionally, through this final assignment, it also has given me an idea of what backend engineer work looks like. In my opinion, the program, especially the final assignment, has been designed quite well and is a great resource to enrich insight related to backend development.
+To conclude, the internship program has taught me a lot of things related to backend development, including creating REST APIs, managing a database and its transactions, handling authentication, setting up a development work environment, and above all, writing codes doing all these things cleanly. The final assignment also has given me an idea of what a backend engineer's work looks like. I believe that the program, especially the final assignment, has been designed thoughtfully and provides an excellent resource for anyone interested in backend development.
